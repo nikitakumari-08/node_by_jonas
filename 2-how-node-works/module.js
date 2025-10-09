@@ -17,3 +17,6 @@ console.log0(multiply(2,5));
 
 // caching 
 
+require("./test-module-3")();
+require("./test-module-3")();
+require("./test-module-3")();
