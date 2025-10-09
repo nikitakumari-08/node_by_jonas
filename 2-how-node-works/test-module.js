@@ -5,6 +5,8 @@ exports.divide = (a, b) => a/b;
 
 
 
+console.log("Hello from the module");
+
 
 
 
