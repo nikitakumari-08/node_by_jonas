@@ -19,7 +19,7 @@ fs.readFile("text-file.txt", () => {
      setTimerout(() => console.log("Timer 3 finished"), 3000);
      setImmediate(() => console.log("Immediate 2 finished"))
      
-     Process.nextTick(() => console.log("Process.nextTick"));
+     Process.nextTick(() => console.log("Process.nextTick"))
      
      
      console.log("Hello from the top level code");crypto.pbkdf2Sync('password', 'salt', 100000, 1024, "sha512");
