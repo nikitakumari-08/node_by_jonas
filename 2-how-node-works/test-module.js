@@ -10,4 +10,3 @@ exports.divide = (a, b) => a/b;
 console.log("Hello from the module");
 
 
-MediaSourceHandle.exports = () => console.log("Log this beautiful text");
