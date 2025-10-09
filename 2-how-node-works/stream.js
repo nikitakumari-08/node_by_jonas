@@ -11,7 +11,7 @@ server.on('request', (req, res) => {
    // });
 
 
-   
+   // solution - 2 streams 
 
 /*
    const readable = fs.createReadStream('test-file.txt')
