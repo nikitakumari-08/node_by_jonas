@@ -23,7 +23,7 @@ fs.readFile("text-file.txt", () => {
      
      
      console.log("Hello from the top level code");crypto.pbkdf2Sync('password', 'salt', 100000, 1024, "sha512");
-     console.log(Date.now()  - start, "Password encrypted");
+     console.log(Date.now()  - start, "Password encrypted")
      
      
      console.log("Hello from the top level code");crypto.pbkdf2Sync('password', 'salt', 100000, 1024, "sha512");
