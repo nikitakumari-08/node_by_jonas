@@ -40,7 +40,7 @@ fs.readFile("text-file.txt", () => {
 });
 
 
-console.log("Hello from the top-level code")
+console.log("Hello from the top-level code");
 
 
 
